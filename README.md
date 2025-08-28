@@ -33,15 +33,41 @@
 
 ## 📖 Descrição do Projeto / Project Description
 
-PT: O FRAUDE-MÉTRICAS é uma aplicação robusta desenvolvida para analisar, simular e visualizar métricas de custos em diferentes cenários. Originalmente pensada para detecção de fraude, também pode ser facilmente adaptada para avaliar perdas com produtos danificados, custos associados a doenças raras, e muitos outros casos de uso que exijam análise quantitativa e visual de dados. Integra processamento de dados, geração de relatórios exportáveis, comparações entre modelos de avaliação e visualizações interativas — tudo em uma interface intuitiva. Com essa flexibilidade, é possível apoiar a tomada de decisões estratégicas em diversos setores, reduzindo perdas financeiras e otimizando recursos.
+**PT:**  
+O **FRAUDE-MÉTRICAS** é uma aplicação analítica desenvolvida para **simular, visualizar e comparar métricas de custo** em cenários diversos. Embora tenha sido criada para detecção de fraudes, sua estrutura flexível permite aplicação em áreas como **produtos danificados**, **doenças raras**, **riscos operacionais** e muito mais.
 
-EN: FRAUD-METRICS is a robust application designed to analyze, simulate, and visualize cost metrics across multiple scenarios. Originally created for fraud detection, it can also be easily adapted to assess losses from damaged products, costs related to rare diseases, and many other use cases requiring quantitative and visual data analysis. It combines data processing, exportable reporting, comparative model evaluation, and interactive visualizations — all within an intuitive interface. This versatility makes it a valuable tool for strategic decision-making in various sectors, helping reduce losses and optimize resources.
+A ferramenta integra:
+- Processamento de dados com Pandas  
+- Visualizações interativas com Plotly  
+- Relatórios exportáveis (.csv e .html)  
+- Interface intuitiva via Streamlit
+
+**EN:**  
+**FRAUD-METRICS** is an analytical application designed to **simulate, visualize, and compare cost metrics** across multiple scenarios. While originally built for fraud detection, its flexible architecture allows use in areas such as **damaged products**, **rare diseases**, **operational risks**, and more.
+
+The tool integrates:
+- Data processing with Pandas  
+- Interactive visualizations using Plotly  
+- Exportable reports (.csv and .html)  
+- Intuitive interface powered by Streamlit
+
+---
+
+## 🚀 Execução / Execution
+
+**PT:**  
+Para executar o projeto localmente com Streamlit:
+
+bash
+streamlit run app.py
 
 ---
 
 ## 🚧 Status do Projeto / Project Status
 
-✅ Finalizado e pronto para uso! / Finished and ready to use!
+✅ Projeto finalizado e funcional ✅ Executado via Streamlit com interface web interativa ✅ Pronto para testes, demonstrações e adaptações
+
+✅ Project completed and functional ✅ Implemented via Streamlit with an interactive web interface ✅ Ready for testing, demonstrations, and adaptations
 
 ---
 
