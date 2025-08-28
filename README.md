@@ -64,11 +64,11 @@ streamlit run app.py
 ---
 
 ## 🚧 Status do Projeto / Project Status
-
+PT:
 - ✅ Projeto finalizado e funcional
 - ✅ Executado via Streamlit com interface web interativa 
 - ✅ Pronto para testes, demonstrações e adaptações
-
+EN:
 - ✅ Project completed and functional 
 - ✅ Implemented via Streamlit with an interactive web interface 
 - ✅ Ready for testing, demonstrations, and adaptations
