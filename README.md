@@ -104,6 +104,8 @@ EN:
   <img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/>
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://viciscat.github.io/MineralContest/imgs/github_logo.png"/>
+  <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://www.sqlite.org/images/sqlite370_banner.gif"/>
+
 </p>  
 
 <br clear="all"/>
