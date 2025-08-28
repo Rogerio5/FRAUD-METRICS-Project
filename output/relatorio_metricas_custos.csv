@@ -1,0 +1,2 @@
+Acurácia,Precisão,Recall,Especificidade,F1-Score,Custo FP,Custo FN,Custo Total,VP,VN,FP,FN
+0.9991,0.9988,0.9994,0.9988,0.9991,500,2500,3000,8000,8000,10,5

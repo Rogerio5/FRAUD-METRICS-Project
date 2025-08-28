@@ -1,0 +1,87 @@
+
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Relatório de Métricas</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 40px;
+                background-color: #fdfdfd;
+                color: #333;
+            }
+            h1 {
+                color: #2a9d8f;
+                border-bottom: 2px solid #ccc;
+                padding-bottom: 10px;
+            }
+            h2 {
+                color: #264653;
+                margin-top: 40px;
+            }
+            .metricas {
+                background: #f4f4f4;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            }
+            pre {
+                background: #eee;
+                padding: 15px;
+                border-radius: 5px;
+                overflow-x: auto;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                border: 1px solid #ddd;
+                border-radius: 6px;
+                box-shadow: 0 0 8px rgba(0,0,0,0.1);
+            }
+            footer {
+                margin-top: 60px;
+                font-size: 0.9em;
+                color: #777;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>📊 Relatório de Métricas</h1>
+
+        <div class="metricas">
+            <h2>🔍 Cenário 3</h2>
+            <pre>Cenário 3 — Matriz de Confusão: VP=90, FN=10, FP=30, VN=8000
+- Acurácia: 99.51%
+- Precisão: 75.00%
+- Recall: 90.00%
+- Especificidade: 99.63%
+- F1-Score: 81.82%
+- Prevalência: 1.230%
+- Acurácia Balanceada: 94.81%
+- MCC: 0.819
+- Custo total (FP=10, FN=5): 350.00</pre>
+        </div>
+
+        <h2>🖼️ Dashboard de Métricas</h2>
+        <img src="dashboard.png" alt="Dashboard de Métricas">
+
+        <h2>📈 Curva Precisão-Recall</h2>
+        <img src="curva_precision_recall_empresa.png" alt="Curva Precisão-Recall">
+
+        <h2>💸 Simulação de Custos</h2>
+        <pre> Custo FP  Custo FN  Custo Total
+        5         5          200
+        5        15          300
+        5        25          400
+        5        35          500
+       15         5          500</pre>
+        <img src="simulacao_custos.png" alt="Heatmap de Simulação de Custos">
+
+        <footer>
+            Relatório gerado automaticamente por DetectorFraudeCorp &mdash; run_all.py
+        </footer>
+    </body>
+    </html>
+    
