@@ -2,7 +2,7 @@
 
 # 📊 Projeto FRAUDE-MÉTRICAS / FRAUD-METRICS Project
 
-![Imagem de capa / Cover Image](assets/fraude-metricas.png)
+![Imagem de capa / Cover Image](fraude-metricas.png)
 
 ---
 
