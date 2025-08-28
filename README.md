@@ -70,7 +70,7 @@ EN: FRAUD-METRICS is a robust application designed to analyze, simulate, and vis
   <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/>
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://viciscat.github.io/MineralContest/imgs/github_logo.png"/>
 </p>  
 
 <br clear="all"/>
