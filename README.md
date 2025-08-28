@@ -1,6 +1,6 @@
-# FRAUD-METRICS-Project
+# 📊 FRAUD-METRICS-Project
 
-# 📊 Projeto FRAUDE-MÉTRICAS / FRAUD-METRICS Project
+## 🕵️‍♂️ DetectorFraudeCorp — Aplicação Streamlit
 
 ![Imagem de capa do projeto](output/fraude-metricas.png)
 
