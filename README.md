@@ -31,9 +31,9 @@
 
 ## 📖 Descrição do Projeto / Project Description
 
-**PT:** Aplicação para análise e simulação de métricas de custos em cenários de fraude, com relatórios exportáveis e visualizações interativas.  
+PT: O FRAUDE-MÉTRICAS é uma aplicação robusta desenvolvida para analisar, simular e visualizar métricas de custos em diferentes cenários. Originalmente pensada para detecção de fraude, também pode ser facilmente adaptada para avaliar perdas com produtos danificados, custos associados a doenças raras, e muitos outros casos de uso que exijam análise quantitativa e visual de dados. Integra processamento de dados, geração de relatórios exportáveis, comparações entre modelos de avaliação e visualizações interativas — tudo em uma interface intuitiva. Com essa flexibilidade, é possível apoiar a tomada de decisões estratégicas em diversos setores, reduzindo perdas financeiras e otimizando recursos.
 
-**EN:** Application for analyzing and simulating cost metrics in fraud scenarios, featuring exportable reports and interactive visualizations.
+EN: FRAUD-METRICS is a robust application designed to analyze, simulate, and visualize cost metrics across multiple scenarios. Originally created for fraud detection, it can also be easily adapted to assess losses from damaged products, costs related to rare diseases, and many other use cases requiring quantitative and visual data analysis. It combines data processing, exportable reporting, comparative model evaluation, and interactive visualizations — all within an intuitive interface. This versatility makes it a valuable tool for strategic decision-making in various sectors, helping reduce losses and optimize resources.
 
 ---
 
@@ -93,6 +93,6 @@ This project is under the MIT license. For more details, see the `LICENSE` file.
 
 ## 🏁 Conclusão / Conclusion
 
-**PT:** Ferramenta robusta para análise, simulação e visualização de métricas de fraude, pronta para ser aplicada em projetos reais.  
+PT: O FRAUDE-MÉTRICAS vai muito além de cenários de fraude: sua estrutura flexível permite aplicá-lo também na análise de produtos danificados, doenças raras e outros contextos onde métricas de custo e impacto sejam cruciais. Seja para reduzir perdas financeiras, otimizar recursos ou apoiar decisões estratégicas, essa ferramenta entrega resultados claros e visuais que tornam a análise de dados muito mais intuitiva.
 
-**EN:** A robust tool for fraud metric analysis, simulation, and visualization — ready for real-world application.
+EN: FRAUD-METRICS goes far beyond fraud scenarios: its flexible architecture also makes it suitable for analyzing damaged products, rare diseases, and many other contexts where cost and impact metrics are critical. Whether aiming to reduce financial losses, optimize resources, or support strategic decision-making, this tool delivers clear, visual results that make data analysis far more intuitive.
