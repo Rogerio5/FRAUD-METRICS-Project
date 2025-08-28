@@ -2,17 +2,19 @@
 
 # 📊 Projeto FRAUDE-MÉTRICAS / FRAUD-METRICS Project
 
-![Imagem de capa / Cover Image](assets/fraude-metricas.png)
+![Imagem de capa do projeto](output/fraude-metricas.png)
 
 ---
 
 ## 🏅 Badges
 
 - 📦 Tamanho do repositório / Repository Size:  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/fraude-metricas)
+  ![GitHub repo size](https://img.shields.io/repo-size/Rogerio5/FRAUD-METRICS-Project
+)
 
 - 📄 Licença do projeto / Project License:  
-  ![GitHub license](https://img.shields.io/github/license/Rogerio5/fraude-metricas)
+  ![GitHub license](https://img.shields.io/github/license/Rogerio5/FRAUD-METRICS-Project
+)
 
 ---
 
